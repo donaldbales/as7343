@@ -1,0 +1,20 @@
+--- AS7343 Channel Readings ---
+  FZ (450nm blue): 823
+  FY (555nm yellow-green): 1613
+  FXL (600nm orange): 1459
+  NIR (855nm near-IR): 42
+  VIS_TL_0 (clear top-left, cycle 1): 2071
+  VIS_BR_0 (clear btm-right, cycle 1): 17999
+  F2 (425nm violet-blue): 274
+  F3 (475nm blue-cyan): 772
+  F4 (515nm green): 1125
+  F6 (640nm red): 998
+  VIS_TL_1 (clear top-left, cycle 2): 2071
+  VIS_BR_1 (clear btm-right, cycle 2): 17999
+  F1 (405nm violet): 36
+  F7 (690nm deep red): 419
+  F8 (745nm near-IR edge): 48
+  F5 (550nm green-yellow): 451
+  VIS_TL_2 (clear top-left, cycle 3): 2071
+  VIS_BR_2 (clear btm-right, cycle 3): 17999
+  
